@@ -49,6 +49,9 @@ h3#header {
   text-decoration: underline;
 }
 
+main {
+  margin-top: 20px;
+}
 
 /*Make the links in the navigation have no underline a color of #007bff and a font size of 18px.
 */
