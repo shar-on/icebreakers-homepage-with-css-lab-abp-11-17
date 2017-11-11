@@ -35,7 +35,10 @@ nav a:hover {
   color: #0056b3;
 }
 
-
+h3#header {
+  float: left;
+  font-size: 30px;
+}
 
 
 /*Make the links in the navigation have no underline a color of #007bff and a font size of 18px.
