@@ -73,5 +73,8 @@ div.jumbotron {
 div.questions {
   padding: 0 20px 0 20px;
 }
-/*Make the links in the navigation have no underline a color of #007bff and a font size of 18px.
-*/
+
+div.questions h4 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
