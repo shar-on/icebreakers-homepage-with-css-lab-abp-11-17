@@ -53,5 +53,11 @@ main {
   margin-top: 20px;
 }
 
+div.jumbotron {
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
 /*Make the links in the navigation have no underline a color of #007bff and a font size of 18px.
 */
