@@ -45,6 +45,10 @@ h3#header {
   color: #868e96;
 }
 
+header a:hover {
+  text-decoration: underline;
+}
+
 
 /*Make the links in the navigation have no underline a color of #007bff and a font size of 18px.
 */
