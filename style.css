@@ -59,5 +59,11 @@ div.jumbotron {
   padding: 10px;
   text-align: center;
 }
+
+.jumbotron h1 {
+  font-size: 60px;
+}
+
+
 /*Make the links in the navigation have no underline a color of #007bff and a font size of 18px.
 */
